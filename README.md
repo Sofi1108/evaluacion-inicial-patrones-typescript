@@ -112,3 +112,37 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Evaluación inicial - Patrones TypeScript
+
+Nombre: Sofía  
+Apellidos: Torcal Valentín
+Curso: 2SI
+Fecha: 22-09-2026
+
+| Patrón               | Implementado | Entendido |
+| -------------------- | ------------ | --------- |
+| Singleton            | Sí           | Sí        |
+| Factory              | Sí           | Sí        |
+| DAO                  | Sí           | Sí        |
+| Dependency Injection | No           | No        |
+
+_¿Qué patrón te ha resultado más sencillo?_
+
+Singleton
+
+_¿Cuál te ha resultado más complicado?_
+
+El de Dependency Injection, porque es bastante nuevo.
+
+_¿Cuál utilizarías con más frecuencia?_
+
+Supongo que la Factory.
+
+_¿Qué patrón o concepto crees que será especialmente útil en desarrollo móvil?_
+
+Dependency Injection
+
+_¿Qué patrón crees que aparecerá con frecuencia cuando trabajemos con NestJS?_
+
+Dependency Injection
