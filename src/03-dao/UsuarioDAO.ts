@@ -1,4 +1,4 @@
-import { Usuario } from '../03-dao/usuario';
+import { Usuario } from '../03-dao/Usuario';
 export interface UsuarioDAO {
   crear(usuario: Omit<Usuario, 'id'>): Promise<Usuario>;
   obtenerPorId(id: string): Promise<Usuario | null>;
